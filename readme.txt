@@ -1,1 +1,1 @@
-this is sample file
+technicalhub clone using html css js

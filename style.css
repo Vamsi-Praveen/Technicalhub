@@ -95,13 +95,13 @@ nav .nav-links .drop
     top: 50px;
     left: -50px;
     border-radius: 5px;
-    /* display: none; */
-    /* visibility: hidden; */
+    visibility: hidden;
     transition: 0.2s;
 }
-/* nav .nav-links ul li .link:hover{
-    
-}  */
+nav .nav-links .drop.active
+{
+    visibility: visible;
+}
 nav .nav-links .drop ul
 {
     display: flex;
